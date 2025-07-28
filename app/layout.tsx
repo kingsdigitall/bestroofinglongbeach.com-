@@ -5,6 +5,8 @@ import Navbar from "./components/Navbar";
 import { GoogleAnalytics, GoogleTagManager } from "@next/third-parties/google";
 import Footer from "./components/Footer";
 import CallButtonMobile from "./components/Widgets/CallButtonMobile";
+
+
 const inter = DM_Sans({
   subsets: ["latin"],
 });
