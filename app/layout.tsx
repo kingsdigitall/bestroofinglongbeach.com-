@@ -6,6 +6,7 @@ import { GoogleAnalytics, GoogleTagManager } from "@next/third-parties/google";
 import Footer from "./components/Footer";
 import CallButtonMobile from "./components/Widgets/CallButtonMobile";
 
+
 const inter = DM_Sans({
   subsets: ["latin"],
 });
@@ -24,7 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <GoogleAnalytics gaId="" />
-      <GoogleTagManager gtmId="GTM-PVTFL8K8" />
+      {/* <GoogleTagManager gtmId="GTM-PVTFL8K8" /> */}
       <body className={`w-full max-w-[2100px] mx-auto  ${inter.className}`}>
         <Navbar/>
         <div className="bg-white ">
