@@ -2,7 +2,7 @@
   "metaTitle": "Top Roofing Contractors in Long Beach, CA | Long Beach Roofing Experts",
   "metaDescription": "Need roof repairs or installation in Long Beach, CA? Contact us and trust us for expert roofing services, durable materials & Call us at (562) 534-3267. ",
   "bannerQuote": "",
-  "bannerImage": "banner.jpg",
+  "bannerImage": "https://ik.imagekit.io/serviceproviders/bestroofinglongbeach.com/banner.jpg",
   "h1Banner": "Reliable Roofing Solutions in Long Beach, CA",
   "p1Banner": "Protect your home with expert roofing services you can trust. Quick response, honest quotes, and skilled craftsmanship—right here in your neighborhood.",
   "h2": "Your Roof, Our Priority – Serving Long Beach for Over 20 Years",
@@ -43,10 +43,207 @@
       }
     ]
   },
+  "affordableWidget": {
+    "title": "Affordable & Fast Drain Cleaning in Citrus Heights, CA",
+    "description": "We provide prompt, top-tier drain cleaning solutions to keep your home or business in perfect working order. Whether it’s a simple fix or a more complex issue, our skilled team ensures the job is done right the first time.",
+    "ctaText": "Call Now",
+    "cards": [
+      {
+        "title": "Simple Booking Process",
+        "description": "No long forms. No runaround. One quick call and we’ll get you scheduled in minutes."
+      },
+      {
+        "title": "Licensed Waste Disposal",
+        "description": "We follow state regulations and local guidelines to ensure all your waste is handled responsibly."
+      },
+      {
+        "title": "Reliable Customer Support",
+        "description": "From first inquiry to final pickup, our team is ready to answer your questions and help you out."
+      }
+    ]
+  },
+  "processWidget": {
+  "title": "Our Process – Simple. Straightforward. Stress-Free.",
+  "description": "",
+  "steps": [
+    {
+      "title": "Step 1: Initial Consultation",
+      "description": "Contact us to discuss your roofing needs and schedule a convenient consultation."
+    },
+    {
+      "title": "Step 2: Free Roof Inspection",
+      "description": "We'll thoroughly assess your roof and provide an honest, detailed report."
+    },
+    {
+      "title": "Step 3: Detailed Quote & Options",
+      "description": "We'll explain your options, materials, and pricing to help you choose the best solution."
+    },
+    {
+      "title": "Step 4: Expert Installation/Repair",
+      "description": "Our skilled team will complete the work efficiently and to the highest standards."
+    },
+    {
+      "title": "Step 5: Final Review & Satisfaction",
+      "description": "We ensure you're completely satisfied with the results and leave your property clean."
+    }
+  ]
+}
+,
+  "hourCtaWidget": {
+    "title": "Ready to Get Started? Let’s Talk Roofing!"
+},
   "h3": "More Than a Roof—It’s Your First Line of Defense",
   "p3": "A strong, well-maintained roof protects everything that matters inside your home. It shields your family from the elements, prevents costly water damage, and adds value to your property. At Long Beach Roofing Experts, we treat every roof like it’s our own, making sure it’s structurally sound, energy-efficient, and built to withstand whatever the California weather throws at it.",
   "h3Image": "https://ik.imagekit.io/serviceproviders/bestroofinglongbeach.com/male-builder-drilling-in-the-wooden-frame.jpg?updatedAt=1744098847381",
-  "faq": [],
-  "testimonials": [],
+  "faq": [
+  {
+    "FAQ": "Do you provide same-day roof inspections in [location]?",
+    "Answer": "Yes, we offer same-day roof inspections in [location] when scheduling allows. Call early and we'll do our best to accommodate your request."
+  },
+  {
+    "FAQ": "What's the best season to replace a roof in [location]?",
+    "Answer": "Spring and fall are generally ideal for roof replacements in [location] due to milder weather, but we operate year-round for your convenience."
+  },
+  {
+    "FAQ": "Can you install a new roof over an old one in [location]?",
+    "Answer": "Yes, in [location] we offer reroofing services where conditions allow. Our team will inspect your existing roof to determine if it qualifies."
+  },
+  {
+    "FAQ": "How do I know if my roof is energy-efficient in [location]?",
+    "Answer": "We assess insulation, ventilation, and material type during inspections in [location] and can recommend upgrades to improve energy efficiency."
+  },
+  {
+    "FAQ": "Do you use drone technology for roof inspections in [location]?",
+    "Answer": "Yes, we use drone inspections in [location] when needed, especially for steep, tall, or hard-to-access roofs."
+  },
+  {
+    "FAQ": "Can I finance my roof replacement in [location]?",
+    "Answer": "We offer flexible financing options in [location] for qualified homeowners. Ask us about available plans during your estimate."
+  },
+  {
+    "FAQ": "How long will a tile roof last in [location]?",
+    "Answer": "Tile roofs can last 40-50 years or more in [location], especially with proper maintenance and prompt repair of small issues."
+  },
+  {
+    "FAQ": "Do you handle roof repairs after hailstorms in [location]?",
+    "Answer": "Yes, we specialize in hail damage repairs in [location] and provide detailed inspections for insurance claims."
+  },
+  {
+    "FAQ": "Are cool roofs available in [location]?",
+    "Answer": "Yes, we install cool roofs in [location] designed to reflect more sunlight and reduce heat absorption, ideal for hot climates."
+  },
+  {
+    "FAQ": "Do you help with roof design and material selection in [location]?",
+    "Answer": "Absolutely. We walk you through style, color, and material options during consultations in [location] to match your home's aesthetic."
+  },
+  {
+    "FAQ": "Can you replace skylights during roof work in [location]?",
+    "Answer": "Yes, if your roof has skylights, we can replace or re-flash them during roof installation or repair services in [location]."
+  },
+  {
+    "FAQ": "What's included in a roof maintenance plan in [location]?",
+    "Answer": "Our maintenance plans in [location] include bi-annual inspections, debris removal, flashing checks, minor sealing, and early issue detection."
+  },
+  {
+    "FAQ": "Can solar panels be installed on any roof in [location]?",
+    "Answer": "Most roofs in [location] are compatible, but we assess slope, material, and age to ensure solar panel readiness."
+  },
+  {
+    "FAQ": "Do you offer eco-friendly or recycled roofing options in [location]?",
+    "Answer": "Yes, we offer eco-conscious roofing options in [location] including recycled shingles, reflective materials, and low-waste installation methods."
+  }
+],
+  "reviews": [
+  {
+    "Review": "I wasn't sure what was wrong, so I called for a detailed shingle replacement in [location]. Really helped us understand what needed fixing and what didn't."
+  },
+  {
+    "Review": "We didn't realize the extent of the water damage until the emergency roof repair in [location]. Really helped us understand what needed fixing and what didn't."
+  },
+  {
+    "Review": "After ignoring the damage too long, we went for a full tile roof repair in [location]. Really helped us understand what needed fixing and what didn't."
+  },
+  {
+    "Review": "We didn't realize the extent of the water damage until the roof inspection in [location]. You can tell they know roofs-they worked fast and it looks great."
+  },
+  {
+    "Review": "We were rushing to fix our roof before selling and booked their shingle replacement in [location]. We're glad we found a reliable roofer in [location]."
+  },
+  {
+    "Review": "A storm hit hard and tore shingles off-we needed an emergency gutter cleaning in [location]. Really helped us understand what needed fixing and what didn't."
+  },
+  {
+    "Review": "After ignoring the damage too long, we went for a full gutter repair in [location]. Start to finish, they were honest, clean, and fast."
+  },
+  {
+    "Review": "We were rushing to fix our roof before selling and booked their shingle replacement in [location]. They even patched up extra areas they noticed, free of charge."
+  },
+  {
+    "Review": "Our gutters were barely holding on, so we scheduled a quick roof inspection in [location]. Everything feels more secure now-great job and stress-free process."
+  },
+  {
+    "Review": "We were rushing to fix our roof before selling and booked their metal roof upgrade in [location]. Fair pricing, friendly team, and no runaround."
+  },
+  {
+    "Review": "A storm hit hard and tore shingles off-we needed an emergency shingle replacement in [location]. We're glad we found a reliable roofer in [location]."
+  },
+  {
+    "Review": "A storm hit hard and tore shingles off-we needed an emergency tile roof repair in [location]. Everything feels more secure now-great job and stress-free process."
+  },
+  {
+    "Review": "We had a leak over our kitchen and finally booked a shingle replacement in [location]. Start to finish, they were honest, clean, and fast."
+  },
+  {
+    "Review": "We had a leak over our kitchen and finally booked a metal roof upgrade in [location]. No upselling, no delays-just solid work at a fair price."
+  },
+  {
+    "Review": "We had a leak over our kitchen and finally booked a shingle replacement in [location]. We're glad we found a reliable roofer in [location]."
+  },
+  {
+    "Review": "A storm hit hard and tore shingles off-we needed an emergency emergency roof repair in [location]. They showed up when they said they would and left no mess."
+  },
+  {
+    "Review": "Our gutters were barely holding on, so we scheduled a quick roof replacement in [location]. Really helped us understand what needed fixing and what didn't."
+  },
+  {
+    "Review": "We had a leak over our kitchen and finally booked a storm damage repair in [location]. Start to finish, they were honest, clean, and fast."
+  },
+  {
+    "Review": "The ceiling started to sag, and that's when we called for a full metal roof upgrade in [location]. Fair pricing, friendly team, and no runaround."
+  },
+  {
+    "Review": "Our gutters were barely holding on, so we scheduled a quick emergency roof repair in [location]. They handled it with care and explained everything without pressure."
+  },
+  {
+    "Review": "We got a notice from our HOA and had to rush a proper tile roof repair in [location]. They showed up when they said they would and left no mess."
+  },
+  {
+    "Review": "We got a notice from our HOA and had to rush a proper gutter repair in [location]. No upselling, no delays-just solid work at a fair price."
+  },
+  {
+    "Review": "Our gutters were barely holding on, so we scheduled a quick gutter cleaning in [location]. They even patched up extra areas they noticed, free of charge."
+  },
+  {
+    "Review": "We got a notice from our HOA and had to rush a proper metal roof upgrade in [location]. We're glad we found a reliable roofer in [location]."
+  },
+  {
+    "Review": "I wasn't sure what was wrong, so I called for a detailed metal roof upgrade in [location]. No upselling, no delays-just solid work at a fair price."
+  },
+  {
+    "Review": "The ceiling started to sag, and that's when we called for a full gutter cleaning in [location]. They showed up when they said they would and left no mess."
+  },
+  {
+    "Review": "Our gutters were barely holding on, so we scheduled a quick gutter repair in [location]. Fair pricing, friendly team, and no runaround."
+  },
+  {
+    "Review": "I wasn't sure what was wrong, so I called for a detailed gutter cleaning in [location]. They even patched up extra areas they noticed, free of charge."
+  },
+  {
+    "Review": "We had a leak over our kitchen and finally booked a emergency roof repair in [location]. They even patched up extra areas they noticed, free of charge."
+  },
+  {
+    "Review": "We were rushing to fix our roof before selling and booked their storm damage repair in [location]. Start to finish, they were honest, clean, and fast."
+  }
+],
   "mapLink": "https://maps.google.com/maps?q=Long+Beach&t=&z=11&ie=UTF8&iwloc=&output=embed"
 }
