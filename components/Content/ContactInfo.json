@@ -8,5 +8,11 @@
   "address": "100 W Broadway, Long Beach, CA 90822, United States",
   "service": "Roofing Services",
   "location": "Long Beach, CA",
-  "zipCode": "90822"
+  "zipCode": "90822",
+  "bannerImage": "https://ik.imagekit.io/serviceproviders/bestroofinglongbeach.com/banner.jpg?updatedAt=1744098758239",
+  "logoImage": "https://ik.imagekit.io/serviceproviders/bestroofinglongbeach.com/logo.png?updatedAt=1744098746914",
+  "favicon": "",
+  "googleAnalytics": "",
+  "main": "#4b869e",
+  "minor": "#325a6b"
 }
